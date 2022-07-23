@@ -573,6 +573,10 @@ body {
     padding: 10px 0;
 }
 
+.blog__content-item-img {
+    width: 100%;
+}
+
 .footer {
     background: var(--black);
     text-align: center;
